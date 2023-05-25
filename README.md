@@ -3,7 +3,7 @@ prueba técnica Neoris Back End JAVA
 
 INSTRUCCIONES DE INSTALACION Y EJECUCIÓN: 
 
-1. Clonar el repositorio publico en la siguiente URL: 
+1. Clonar el repositorio publico en la siguiente URL: https://github.com/cristianmanzano1989/pruebaNeoris.git
 2. Ejecutar el Script BaseDatos.sql
 3. Ejecutar mvn clean install al proyecto /pruebaTecnica el cual genera el artefacto : pruebaTecnica-0.0.1-SNAPSHOT.jar
 4. DESPLIEGUE EN DOCKER:
