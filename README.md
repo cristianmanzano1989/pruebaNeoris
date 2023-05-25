@@ -1,5 +1,5 @@
 # pruebaNeoris
-prueba técnica Neoris Back End JAVA
+Prueba técnica Neoris Back End JAVA
 
 INSTRUCCIONES DE INSTALACION Y EJECUCIÓN: 
 
